@@ -1,4 +1,4 @@
-# Transacoes-Activitys-Android-Studio
+# Transações-Activitys-Android-Studio
 Nesse compliado descrevo os passos para fazer uma transição entre activitys de um app mobile com uma animação customizada. Construido usando o JAVA dentro da IDE do Android Studio.
 
 In this compilation I describe the steps to make a transition between activities of a mobile app with a custom animation. Built using JAVA within the Android Studio IDE.
